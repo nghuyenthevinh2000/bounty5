@@ -2,7 +2,7 @@
 this is bounty 5 project for gnolang
 
 # Note
-I checked the code of romelukaku and he changed so much both in base source and base logic. I see it as so dangerous in the long run.
+I checked the code of romelukaku and he changed much both in base source and base logic of gnokey. I see it as so dangerous in the long run.
  
 I implement only ed25519 generation while preserving as much base code and base logic as I can. 
  
